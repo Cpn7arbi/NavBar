@@ -1,0 +1,31 @@
+
+
+
+nav{
+    background-color: rgb(225, 225, 225);
+  
+    width: 100%;
+}
+    nav ul li{
+    display: inline;
+    margin-left: 20px;
+    border-right: 3px solid white;
+    padding-right: 10px;
+    font-size: 32px;
+    }
+    
+    nav ul li a{
+    text-decoration: none;
+
+    }
+
+    nav ul.navbar li a:hover {
+        background-color: #464646; 
+        color: white; 
+    }
+
+   
+    
+
+
+
